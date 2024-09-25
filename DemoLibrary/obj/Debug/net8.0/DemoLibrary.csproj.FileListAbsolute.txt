@@ -1,0 +1,11 @@
+C:\Local\DelegatesDemo\DemoLibrary\bin\Debug\net8.0\DemoLibrary.deps.json
+C:\Local\DelegatesDemo\DemoLibrary\bin\Debug\net8.0\DemoLibrary.dll
+C:\Local\DelegatesDemo\DemoLibrary\bin\Debug\net8.0\DemoLibrary.pdb
+C:\Local\DelegatesDemo\DemoLibrary\obj\Debug\net8.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Local\DelegatesDemo\DemoLibrary\obj\Debug\net8.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Local\DelegatesDemo\DemoLibrary\obj\Debug\net8.0\DemoLibrary.AssemblyInfo.cs
+C:\Local\DelegatesDemo\DemoLibrary\obj\Debug\net8.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Local\DelegatesDemo\DemoLibrary\obj\Debug\net8.0\DemoLibrary.dll
+C:\Local\DelegatesDemo\DemoLibrary\obj\Debug\net8.0\refint\DemoLibrary.dll
+C:\Local\DelegatesDemo\DemoLibrary\obj\Debug\net8.0\DemoLibrary.pdb
+C:\Local\DelegatesDemo\DemoLibrary\obj\Debug\net8.0\ref\DemoLibrary.dll
